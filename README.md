@@ -8,7 +8,7 @@ https://murmuring-forest-50688.herokuapp.com/
 ## Screen Shots
 
 ![Screen shot](app/public/images/home-image.PNG)
-Index Page
+Home Page
 
 ![Screen shot 2](app/public/images/survey-image.PNG)
 Survey
