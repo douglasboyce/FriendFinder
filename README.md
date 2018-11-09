@@ -7,10 +7,10 @@ https://murmuring-forest-50688.herokuapp.com/
 
 ## Screen Shots
 
-![Screen shot](app/public/images/home-image.png)
+![Screen shot](app/public/images/home-image.PNG)
 Index Page
 
-![Screen shot 2](app/public/images/survey-image.png)
+![Screen shot 2](app/public/images/survey-image.PNG)
 Survey
 
 ## Technologies used
@@ -20,9 +20,7 @@ Survey
 
 ### Prerequisites
 
-```
 - Node.js - Download the latest version of Node https://nodejs.org/en/
-- Materialize - Add CDN link to HTML http://materializecss.com/getting-started.html
 ```
 
 ## Built With
