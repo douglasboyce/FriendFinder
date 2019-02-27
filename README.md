@@ -28,5 +28,4 @@ Survey
 * VSCode Text Editor
 
 ## Author
-
-* *Douglas Boyce** - *HTML/JS/Node.js* - [Douglas Boyce](https://github.com/douglasboyce)
+Douglas Boyce
